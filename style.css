@@ -1,0 +1,69 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+nav ul.menu {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul.menu li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul.menu li a {
+    color: #fff;
+    text-decoration: none;
+}
+nav ul.menu li:hover{
+    background-color: #d2cfcfa2;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilos do formulário de contato */
+form {
+    margin-top: 20px;
+}
+
+label,
+input,
+textarea {
+    display: block;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+footer{
+    text-align: center;
+    color: darkgrey;
+}
+
+/* Estilos adicionais podem ser adicionados conforme necessário */
