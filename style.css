@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
 }
-
+/* Cabeçalho */
 header {
     background-color: #333;
     color: #fff;
@@ -16,7 +16,7 @@ header h1 {
     font-size: 3rem;
     margin: 0;
 }
-
+/* menu navegação */
 nav ul.menu {
     list-style-type: none;
     padding: 0;
@@ -34,13 +34,13 @@ nav ul.menu li a {
 nav ul.menu li:hover{
     background-color: #d2cfcfa2;
 }
-
+/* Seções da minha página */
 main {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
 }
-
+/**/
 /* Estilos do formulário de contato */
 form {
     margin-top: 20px;
@@ -60,10 +60,9 @@ button {
     padding: 10px 20px;
     cursor: pointer;
 }
-
+/**/
+/* Rodapé */
 footer{
     text-align: center;
     color: darkgrey;
 }
-
-/* Estilos adicionais podem ser adicionados conforme necessário */
